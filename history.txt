@@ -528,3 +528,4 @@ Code optimization day 14
 Code optimization day 13
 Code optimization day 12
 Code optimization day 11
+Code optimization day 10
