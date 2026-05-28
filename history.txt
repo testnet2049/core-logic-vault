@@ -535,3 +535,4 @@ Code optimization day 7
 Code optimization day 6
 Code optimization day 5
 Code optimization day 4
+Code optimization day 3
